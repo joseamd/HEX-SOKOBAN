@@ -1,9 +1,10 @@
-# ai-hex
+Integrantes:
+201810034-Donald Marcelo Castañeda
+201810206-José Alexander Muñoz
 
 Este es el proyecto para correr el torneo de Hex. Cada grupo debe compilar su agente usando la librería 'browserify'. Para esto pueden instalar la librería desde npm y luego ejecutar la instrucción desde la consola de linux, desde el directorio de su proyecto
 
-201810034-Donald Marcelo Castañeda
-201810206-José Alexander Muñoz
+
 
 ```bash
 npm install -g browserify
